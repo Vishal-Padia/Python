@@ -5,3 +5,5 @@
 
 <p>That's it</p>
 <p>Thank you for reading this BS (●'◡'●)</p>
+
+<p>PS : All of this is just undocumented code because it's one of strong suit to write undocumented code （⊙ｏ⊙）</p>
